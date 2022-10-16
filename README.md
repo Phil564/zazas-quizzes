@@ -24,12 +24,12 @@ Here is a list of assets I "borrowed" from the internet. I probably do not have 
 i don't have the link for the source of it, so the source image has been included in the Release.
 - Jeopardy Think Music
 [Source](https://www.youtube.com/watch?v=IzYz0yuefAc) (downloaded with yt-dlp)
-- Spin - Grasshopper
-[Source](https://www.youtube.com/watch?v=h6dzHQP8JoQ) (downloaded with yt-dlp)
-- Pilotwings 64 Birdman, Dan Hess remake
-[Source](https://www.youtube.com/watch?v=wkMELrsojbg) (downloaded with yt-dlp)
-- Pilotwings 64 Opening Theme (goes unused in final build)
-[Source](https://www.youtube.com/watch?v=Ta0TSc08dN0) (downloaded with yt-dlp)
+- We Shop Song - Philip Milman
+[Source](https://pmmusic.pro/downloads/)
+```Creative Commons ► Attribution 3.0 Unported ► CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+"You are free to use, remix, transform, and build upon the material
+for any purpose, even commercially. You must give appropriate credit."```
 
 
 ## Tools used in the project
