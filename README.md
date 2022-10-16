@@ -29,7 +29,8 @@ i don't have the link for the source of it, so the source image has been include
 ```Creative Commons ► Attribution 3.0 Unported ► CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 "You are free to use, remix, transform, and build upon the material
-for any purpose, even commercially. You must give appropriate credit."```
+for any purpose, even commercially. You must give appropriate credit."
+```
 
 
 ## Tools used in the project
